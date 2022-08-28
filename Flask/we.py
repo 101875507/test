@@ -1,6 +1,5 @@
 from flask import Flask, request
 
-'''注意，这里的import api是另一个py文件，下文会提及'''
 
 
 app = Flask(__name__)
